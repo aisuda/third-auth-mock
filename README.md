@@ -4,7 +4,7 @@
 
 先执行 `npm i ` 安装 npm 包。
 
-开发请运行 `npm run dev` 正式运行请执行 `npm run dev`
+开发请运行 `npm run dev` 正式运行请执行 `npm start`
 
 ## docker 运行
 
