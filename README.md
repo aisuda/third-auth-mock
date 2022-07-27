@@ -2,6 +2,8 @@
 
 用于模拟爱速搭的第三方登录
 
+先执行 `npm i ` 安装 npm 包。
+
 开发请运行 `npm run dev` 正式运行请执行 `npm run dev`
 
 ## docker 运行
